@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nilabjanayan Bera</h1>
+<img align="right" alt="Coding" width=200 src="https://github.com/Nilabjanayan/Nilabjanayan.github.io/blob/main/1613381157430.jpeg">
 <h3 align="center">A passionate Data Analyst and AI enthusiast from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nilabjanayan&label=Profile%20views&color=0e75b6&style=flat" alt="Nilabjanayan" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nilabjanayan" alt="Nilabjanayan" /></a> </p>
 - 🔭 I’m currently working on **Peripheral Blood Smear Image Analysis**
 
 - 🌱 I’m currently learning **Data Mining, AI, Time Series**
