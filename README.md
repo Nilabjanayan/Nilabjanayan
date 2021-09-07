@@ -14,7 +14,7 @@
 - 📫 How to reach me **nilabjanayanbera@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Nilabjanayan/Nilabjanayan.github.io/blob/main/Resume_Nilabjanayan.pdf](https://github.com/Nilabjanayan/Nilabjanayan.github.io/blob/main/Resume_Nilabjanayan.pdf)
-
+<img align="right" alt="Coding" width=400 src="https://github.com/Nilabjanayan/Nilabjanayan.github.io/blob/main/OyGx.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nilabjanayan bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilabjanayan bera" height="30" width="40" /></a>
